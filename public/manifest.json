@@ -1,0 +1,27 @@
+{
+  "name": "EvaAI",
+  "short_name": "EvaAI",
+  "theme_color": "#667eea",
+  "background_color": "#764ba2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icons/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icons-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icons/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
