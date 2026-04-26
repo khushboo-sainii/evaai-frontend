@@ -76,4 +76,8 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/khushboo-sainii">Khushboo Saini</a></p>
+<p align="center">
+  <em>
+    This project was developed as part of my internship experience, where I worked collaboratively within a team environment to design, develop, and deliver the application.
+  </em>
+</p>
